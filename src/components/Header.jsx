@@ -17,7 +17,7 @@ const Header = () => {
             <i className="fa-solid fa-bars"></i>
             </button>
             <a className="navbar-brand" href="#"><img src="https://searcheducation.com/img/logo.png" width="140px"></img></a>
-            <div className="collapse navbar-collapse mobile-nav pb-3" id="navbarTogglerDemo03">
+            <div className="collapse navbar-collapse mobile-nav" id="navbarTogglerDemo03">
                 <ul className="navbar-nav ml-auto mr-5 mt-2 mt-lg-0">
                     <li className="nav-item active">
                         <a className="nav-link" href="#">Home <span className="sr-only">(current)</span></a>
