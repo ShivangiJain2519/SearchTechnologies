@@ -61,10 +61,9 @@ a.nav-link{
     font-weight: 700;
     margin: 0 10px;
 }
-
 .nav-scrolled{
-    background-color: rgba(255, 255, 255, 0.815);
-    color: #25253f;
+    background-color: rgba(37, 37, 63, 0.815);
+    padding: 0 2rem;
 }
 
 .banner-text{
@@ -334,6 +333,7 @@ li{
     margin-top: 0;
     margin-bottom: 0;
     color: #cbcbcb; 
+    text-align: left;
 }
 #course-section, .more{
     background-color: #f5f5f5;
